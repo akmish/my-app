@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import HighScore from './HighScore';
 import './css/style.css';
 
+// This is a test project to explore react.
 class Application extends Component {
     constructor(props) {
         super(props);
