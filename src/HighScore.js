@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-//Implementation is in Application.js file
+//Implementation is in Application.js file.
 class HighScore extends Component {
 
     render() {
